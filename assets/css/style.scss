@@ -1,0 +1,42 @@
+---
+---
+
+#title_img {
+    text-align: left;
+    margin-bottom: 3em;
+}
+
+.sidebar_title {
+    color: #3f3f3f;
+}
+
+.home_posts {
+    color: #3f3f3f;
+    font-size: xx-large;
+}
+
+.home_posts:hover {
+    color: #4a4a4a;
+}
+
+.home_posts_list {
+    list-style-type: none;
+    margin-bottom: 5em;
+}
+
+.nav_bar_item {
+    color: #3f3f3f;
+    font-size: x-large;
+}
+
+.nav_bar_item:hover {
+    color: #4a4a4a;
+}
+
+.nav_bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+@import "jekyll-theme-minimal";

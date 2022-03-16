@@ -1,0 +1,21 @@
+---
+layout: default
+title: About
+permalink: /about/
+---
+
+# ABOUT
+
+A student’s blog serving as an overflow for occasional musings, a notebook, a diary and more. Focused mainly on computer science, philosophy and mathematics but may sometimes include other topics.
+
+The primary motivation behind this blog is to supplement my studies and help myself understand various concepts and topics by posting about occasional daydreams, eureka moments, musings, and so on. Usually, this is done by having something like an imaginary dialogue with myself in my head, but as the topics become more complicated, they become more difficult to keep track of to explain everything. And so I thought it’d be useful to create a blog.
+
+Due to this primary motivation, I do tend to make up and use my own terminology and formulate my own ideas for logically linking concepts. As such, it may be that I use terms that might be ill-suited or incorrect due to their overlap with theories, terminologies and such already having been discussed and published by scholars, but helps in the context it is used. Likewise, any “theory” (if it can be called that) might be easily disproved due to lack of background knowledge. Even so, it’s highly beneficial to think about things in more depth and “from scratch” (or as close to it as possible), so to speak, with an attempt to make as few assumptions as possible. This of course, is impossible for many things due to how any field works; borrowing from computer science and software engineering, this would be something similar to abstraction. It’s not necessary to, for example, define numbers and operations before doing arithmetic, after all. In any case, making mistakes is part of this journey and I will be frequently updating posts and pages as I learn more and find, in existing posts, incorrect ideas, invalid logical jumps and so on to correct them.
+
+The other reason why I created this blog is to motivate myself to think. I could have simply made offline wiki, diary, notebook, and other things instead of getting a domain and setting the server up but it’s a good way to force myself to do something. Incidentally, it was also a good experience trying to set everything up (I do hope I’ve set everything up properly—it would suck for the website to get hacked and/or deleted).
+
+Now, what specific areas of computer science, philosophy and mathematics am I interested in? Truth be told, I probably couldn’t exactly pinpoint which ones. I do have some in mind right now, but I think my current knowledge is severely lacking to really delve into them. For instance, I would say I have some interest in the theoretical side of computer science which I suppose could count as mathematics as well, depending on the specific area. Incidentally, (and unsurprisingly) the discrete side of mathematics is of more interest to me compared to the continuous side. However, I’d say anything that interlinks with computer science would be of interest. Honestly, it’ll be an extremely difficult road ahead if I’m going to pursue that as I’m probably not comfortable enough (yet) with the rigour and thinking for that, but I’ll accept the challenge nonetheless (I’d say my “dream” is probably to be comfortable with the kind of thinking for it—to conquer it, basically). As for philosophy, it might have initially been metaphysics first and foremost, but I think over time, I started to become more interested in epistemology and ontology. I’d say some ethics and philosophy of religion are also of interest as well.
+
+I already briefly mentioned the origin of the blog name “Theorise”. I wanted something short and “cool”, and after much thinking, I settled on the name. When I think of the computer science, maths and philosophy, my mind goes: theories, information, logic, etc. It was really difficult thinking of something that can be vaguely linked to all three topics. The availability of domain names also made this more difficult, but luckily, I (tend to) use British English rather than American (I used to) so I was able to pick this one.
+
+Aside from the main three, I’m also interested in designing, making and playing games and draw from time to time (although lately, it’s been somewhat difficult finding the motivation and time to do this).
