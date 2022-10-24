@@ -1,1 +1,2 @@
-# Theorise
+# Theorise Blog
+theorise.me
